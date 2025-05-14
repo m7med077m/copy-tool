@@ -1,0 +1,1628 @@
+2025-05-13 22:28:53,979 - INFO - Starting Telegram Message Copier
+2025-05-13 22:28:58,659 - INFO - Start creating a new auth key on DC2
+2025-05-13 22:28:58,660 - INFO - Connecting...
+2025-05-13 22:28:58,724 - INFO - Connected! Production DC2 - IPv4
+2025-05-13 22:29:00,065 - INFO - Done auth key exchange: DhGenOk
+2025-05-13 22:29:00,065 - INFO - Disconnected
+2025-05-13 22:29:00,209 - INFO - Connecting...
+2025-05-13 22:29:00,275 - INFO - Connected! Production DC2 - IPv4
+2025-05-13 22:29:00,278 - INFO - NetworkTask started
+2025-05-13 22:29:00,597 - INFO - Session initialized: Layer 158
+2025-05-13 22:29:00,597 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:29:00,598 - INFO - System: Windows 10 (en)
+2025-05-13 22:29:00,598 - INFO - Session started
+2025-05-13 22:29:00,602 - INFO - PingTask started
+2025-05-13 22:29:09,485 - INFO - PingTask stopped
+2025-05-13 22:29:09,486 - INFO - Disconnected
+2025-05-13 22:29:09,486 - INFO - NetworkTask stopped
+2025-05-13 22:29:09,486 - INFO - Session stopped
+2025-05-13 22:29:09,627 - INFO - Start creating a new auth key on DC4
+2025-05-13 22:29:09,628 - INFO - Connecting...
+2025-05-13 22:29:09,694 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:29:11,150 - INFO - Done auth key exchange: DhGenOk
+2025-05-13 22:29:11,150 - INFO - Disconnected
+2025-05-13 22:29:11,295 - INFO - Connecting...
+2025-05-13 22:29:11,361 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:29:11,362 - INFO - NetworkTask started
+2025-05-13 22:29:11,711 - INFO - Session initialized: Layer 158
+2025-05-13 22:29:11,711 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:29:11,711 - INFO - System: Windows 10 (en)
+2025-05-13 22:29:11,711 - INFO - Session started
+2025-05-13 22:29:11,711 - INFO - PingTask started
+2025-05-13 22:29:21,073 - INFO - Started 16 HandlerTasks
+2025-05-13 22:29:21,123 - INFO - Session saved successfully
+2025-05-13 22:29:21,218 - INFO - Created new session for: MOHAMED (@None)
+2025-05-13 22:29:22,860 - INFO - Start creating a new auth key on DC2
+2025-05-13 22:29:22,860 - INFO - Connecting...
+2025-05-13 22:29:22,921 - INFO - Connected! Production DC2 - IPv4
+2025-05-13 22:29:24,684 - INFO - Done auth key exchange: DhGenOk
+2025-05-13 22:29:24,684 - INFO - Disconnected
+2025-05-13 22:29:24,842 - INFO - Connecting...
+2025-05-13 22:29:24,908 - INFO - Connected! Production DC2 - IPv4
+2025-05-13 22:29:24,908 - INFO - NetworkTask started
+2025-05-13 22:29:25,332 - INFO - Session initialized: Layer 158
+2025-05-13 22:29:25,332 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:29:25,332 - INFO - System: Windows 10 (en)
+2025-05-13 22:29:25,332 - INFO - Session started
+2025-05-13 22:29:25,336 - INFO - PingTask started
+2025-05-13 22:29:25,500 - INFO - PingTask stopped
+2025-05-13 22:29:25,501 - INFO - Disconnected
+2025-05-13 22:29:25,502 - INFO - NetworkTask stopped
+2025-05-13 22:29:25,503 - INFO - Session stopped
+2025-05-13 22:29:25,627 - INFO - Start creating a new auth key on DC4
+2025-05-13 22:29:25,627 - INFO - Connecting...
+2025-05-13 22:29:25,693 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:29:27,294 - INFO - Done auth key exchange: DhGenOk
+2025-05-13 22:29:27,295 - INFO - Disconnected
+2025-05-13 22:29:27,420 - INFO - Connecting...
+2025-05-13 22:29:27,486 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:29:27,486 - INFO - NetworkTask started
+2025-05-13 22:29:27,816 - INFO - Session initialized: Layer 158
+2025-05-13 22:29:27,817 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:29:27,817 - INFO - System: Windows 10 (en)
+2025-05-13 22:29:27,817 - INFO - Session started
+2025-05-13 22:29:27,818 - INFO - PingTask started
+2025-05-13 22:29:28,325 - INFO - Started 16 HandlerTasks
+2025-05-13 22:29:28,325 - ERROR - Error creating new session: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:29:28,326 - ERROR - Failed to start the application
+2025-05-13 22:31:08,273 - INFO - Starting Telegram Message Copier
+2025-05-13 22:31:25,772 - INFO - Connecting...
+2025-05-13 22:31:25,837 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:31:25,839 - INFO - NetworkTask started
+2025-05-13 22:31:26,157 - INFO - Session initialized: Layer 158
+2025-05-13 22:31:26,157 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:31:26,158 - INFO - System: Windows 10 (en)
+2025-05-13 22:31:26,158 - INFO - Session started
+2025-05-13 22:31:26,164 - INFO - PingTask started
+2025-05-13 22:31:26,338 - INFO - Started 16 HandlerTasks
+2025-05-13 22:31:26,444 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 22:31:26,821 - INFO - Connecting...
+2025-05-13 22:31:26,886 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:31:26,887 - INFO - NetworkTask started
+2025-05-13 22:31:27,199 - INFO - Session initialized: Layer 158
+2025-05-13 22:31:27,199 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:31:27,199 - INFO - System: Windows 10 (en)
+2025-05-13 22:31:27,199 - INFO - Session started
+2025-05-13 22:31:27,206 - INFO - PingTask started
+2025-05-13 22:31:27,407 - INFO - Started 16 HandlerTasks
+2025-05-13 22:31:27,410 - ERROR - Failed to start the application
+2025-05-13 22:32:27,627 - INFO - Starting Telegram Message Copier
+2025-05-13 22:32:32,112 - INFO - Connecting...
+2025-05-13 22:32:32,179 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:32:32,180 - INFO - NetworkTask started
+2025-05-13 22:32:32,498 - INFO - Session initialized: Layer 158
+2025-05-13 22:32:32,499 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:32:32,499 - INFO - System: Windows 10 (en)
+2025-05-13 22:32:32,499 - INFO - Session started
+2025-05-13 22:32:32,504 - INFO - PingTask started
+2025-05-13 22:32:32,667 - INFO - Started 16 HandlerTasks
+2025-05-13 22:32:32,753 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 22:32:33,131 - INFO - Connecting...
+2025-05-13 22:32:33,199 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:32:33,199 - INFO - NetworkTask started
+2025-05-13 22:32:33,521 - INFO - Session initialized: Layer 158
+2025-05-13 22:32:33,523 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:32:33,523 - INFO - System: Windows 10 (en)
+2025-05-13 22:32:33,524 - INFO - Session started
+2025-05-13 22:32:33,549 - INFO - PingTask started
+2025-05-13 22:32:33,723 - INFO - Started 16 HandlerTasks
+2025-05-13 22:32:33,725 - ERROR - Failed to start the application
+2025-05-13 22:33:51,308 - INFO - Starting Telegram Message Copier
+2025-05-13 22:33:53,694 - INFO - Connecting...
+2025-05-13 22:33:53,760 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:33:53,761 - INFO - NetworkTask started
+2025-05-13 22:33:54,082 - INFO - Session initialized: Layer 158
+2025-05-13 22:33:54,083 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:33:54,083 - INFO - System: Windows 10 (en)
+2025-05-13 22:33:54,083 - INFO - Session started
+2025-05-13 22:33:54,089 - INFO - PingTask started
+2025-05-13 22:33:54,274 - INFO - Started 16 HandlerTasks
+2025-05-13 22:33:54,365 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 22:33:54,366 - WARNING - Could not send monitoring message: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:34:06,223 - ERROR - An error occurred: 'TelegramCopier' object has no attribute 'verify_channel_access'
+2025-05-13 22:34:06,226 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:34:06,227 - INFO - NetworkTask stopped
+2025-05-13 22:34:06,227 - INFO - PingTask stopped
+2025-05-13 22:34:06,227 - INFO - Disconnected
+2025-05-13 22:34:06,227 - INFO - Session stopped
+2025-05-13 22:34:06,228 - INFO - Application stopped successfully
+2025-05-13 22:34:06,228 - INFO - Disconnected
+2025-05-13 22:34:06,228 - INFO - Session stopped
+2025-05-13 22:34:06,228 - INFO - Connecting...
+2025-05-13 22:34:25,853 - INFO - Starting Telegram Message Copier
+2025-05-13 22:34:28,062 - INFO - Connecting...
+2025-05-13 22:34:28,126 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:34:28,128 - INFO - NetworkTask started
+2025-05-13 22:34:28,483 - INFO - Session initialized: Layer 158
+2025-05-13 22:34:28,483 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:34:28,483 - INFO - System: Windows 10 (en)
+2025-05-13 22:34:28,483 - INFO - Session started
+2025-05-13 22:34:28,489 - INFO - PingTask started
+2025-05-13 22:34:28,669 - INFO - Started 16 HandlerTasks
+2025-05-13 22:34:28,746 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 22:34:28,747 - WARNING - Could not send monitoring message: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:34:40,064 - ERROR - An error occurred: 'TelegramCopier' object has no attribute 'verify_channel_access'
+2025-05-13 22:34:40,068 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:34:40,068 - INFO - NetworkTask stopped
+2025-05-13 22:34:40,068 - INFO - PingTask stopped
+2025-05-13 22:34:40,069 - INFO - Disconnected
+2025-05-13 22:34:40,069 - INFO - Session stopped
+2025-05-13 22:34:40,069 - INFO - Application stopped successfully
+2025-05-13 22:34:40,069 - INFO - Disconnected
+2025-05-13 22:34:40,069 - INFO - Session stopped
+2025-05-13 22:34:40,069 - INFO - Connecting...
+2025-05-13 22:35:24,514 - INFO - Starting Telegram Message Copier
+2025-05-13 22:35:29,769 - INFO - Connecting...
+2025-05-13 22:35:29,836 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:35:29,837 - INFO - NetworkTask started
+2025-05-13 22:35:30,157 - INFO - Session initialized: Layer 158
+2025-05-13 22:35:30,157 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:35:30,158 - INFO - System: Windows 10 (en)
+2025-05-13 22:35:30,158 - INFO - Session started
+2025-05-13 22:35:30,164 - INFO - PingTask started
+2025-05-13 22:35:30,330 - INFO - Started 16 HandlerTasks
+2025-05-13 22:35:30,429 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 22:35:30,431 - WARNING - Could not send monitoring message: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:35:35,238 - ERROR - Error accessing channel -1002657265233: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:35:43,223 - INFO - NetworkTask stopped
+2025-05-13 22:35:43,224 - INFO - PingTask stopped
+2025-05-13 22:35:43,224 - INFO - Disconnected
+2025-05-13 22:35:43,224 - INFO - Session stopped
+2025-05-13 22:35:43,224 - INFO - Connecting...
+2025-05-13 22:35:43,288 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:35:43,290 - INFO - NetworkTask started
+2025-05-13 22:35:43,551 - INFO - Session initialized: Layer 158
+2025-05-13 22:35:43,551 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:35:43,551 - INFO - System: Windows 10 (en)
+2025-05-13 22:35:43,551 - INFO - Session started
+2025-05-13 22:35:43,552 - INFO - PingTask started
+2025-05-13 22:35:43,653 - INFO - Verified channel: Test (ID: -1002657265233)
+2025-05-13 22:35:43,765 - WARNING - Could not get message history for Test: object async_generator can't be used in 'await' expression
+2025-05-13 22:35:44,083 - WARNING - Could not verify permissions in Test: 'NoneType' object has no attribute 'can_post_messages'
+2025-05-13 22:36:06,143 - INFO - NetworkTask stopped
+2025-05-13 22:36:06,143 - INFO - PingTask stopped
+2025-05-13 22:36:06,143 - INFO - Disconnected
+2025-05-13 22:36:06,143 - INFO - Session stopped
+2025-05-13 22:36:06,144 - INFO - Connecting...
+2025-05-13 22:36:06,208 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:36:06,209 - INFO - NetworkTask started
+2025-05-13 22:36:06,460 - INFO - Session initialized: Layer 158
+2025-05-13 22:36:06,460 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:36:06,460 - INFO - System: Windows 10 (en)
+2025-05-13 22:36:06,461 - INFO - Session started
+2025-05-13 22:36:06,461 - INFO - PingTask started
+2025-05-13 22:36:06,570 - INFO - Verified channel: koko (ID: -1002659936082)
+2025-05-13 22:36:06,696 - WARNING - Could not get message history for koko: object async_generator can't be used in 'await' expression
+2025-05-13 22:36:06,865 - INFO - User permissions in koko: ChatMemberStatus.ADMINISTRATOR
+2025-05-13 22:36:20,892 - WARNING - Could not send monitoring message: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:36:20,892 - INFO - NetworkTask stopped
+2025-05-13 22:36:20,893 - INFO - PingTask stopped
+2025-05-13 22:36:20,893 - INFO - Disconnected
+2025-05-13 22:36:20,893 - INFO - Session stopped
+2025-05-13 22:36:20,893 - INFO - Connecting...
+2025-05-13 22:36:20,959 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:36:20,959 - INFO - NetworkTask started
+2025-05-13 22:36:21,142 - INFO - Discarding packet: The msg_id is lower than all the stored values
+2025-05-13 22:36:21,143 - INFO - Send exception: ConnectionResetError Connection lost
+2025-05-13 22:36:21,143 - INFO - Disconnected
+2025-05-13 22:36:21,143 - INFO - NetworkTask stopped
+2025-05-13 22:36:21,144 - INFO - Disconnected
+2025-05-13 22:36:21,144 - INFO - Session stopped
+2025-05-13 22:36:21,144 - INFO - Connecting...
+2025-05-13 22:36:21,210 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:36:21,210 - INFO - NetworkTask started
+2025-05-13 22:36:21,494 - INFO - Session initialized: Layer 158
+2025-05-13 22:36:21,495 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:36:21,495 - INFO - System: Windows 10 (en)
+2025-05-13 22:36:21,495 - INFO - Session started
+2025-05-13 22:36:21,495 - INFO - PingTask started
+2025-05-13 22:36:35,887 - INFO - [1] Retrying "messages.GetHistory" due to: Request timed out
+2025-05-13 22:36:36,703 - WARNING - Could not send monitoring message: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:36:36,703 - INFO - Found 8 messages to copy
+2025-05-13 22:36:36,989 - WARNING - Could not send monitoring message: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:36:36,989 - ERROR - Error copying message 8: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:36:37,248 - WARNING - Could not send monitoring message: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:36:37,248 - ERROR - Error copying message 7: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:36:37,469 - WARNING - Could not send monitoring message: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:36:37,469 - ERROR - Error copying message 6: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:36:37,639 - WARNING - Could not send monitoring message: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:36:37,639 - ERROR - Error copying message 5: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:36:37,912 - WARNING - Could not send monitoring message: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:36:37,912 - ERROR - Error copying message 4: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:36:38,079 - WARNING - Could not send monitoring message: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:36:38,079 - ERROR - Error copying message 3: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:36:38,271 - WARNING - Could not send monitoring message: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:36:38,271 - ERROR - Error copying message 2: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:36:38,381 - WARNING - Service messages cannot be copied. chat_id: -1002657265233, message_id: 1
+2025-05-13 22:36:38,383 - WARNING - Could not send monitoring message: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:36:38,389 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:36:38,389 - INFO - PingTask stopped
+2025-05-13 22:36:38,390 - INFO - Disconnected
+2025-05-13 22:36:38,390 - INFO - NetworkTask stopped
+2025-05-13 22:36:38,390 - INFO - Session stopped
+2025-05-13 22:36:38,390 - INFO - Application stopped successfully
+2025-05-13 22:37:40,743 - INFO - Starting Telegram Message Copier
+2025-05-13 22:37:45,755 - INFO - Connecting...
+2025-05-13 22:37:45,821 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:37:45,823 - INFO - NetworkTask started
+2025-05-13 22:37:46,138 - INFO - Session initialized: Layer 158
+2025-05-13 22:37:46,138 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:37:46,139 - INFO - System: Windows 10 (en)
+2025-05-13 22:37:46,139 - INFO - Session started
+2025-05-13 22:37:46,144 - INFO - PingTask started
+2025-05-13 22:37:46,322 - INFO - Started 16 HandlerTasks
+2025-05-13 22:37:46,456 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 22:37:50,713 - INFO - Verified channel: Test (ID: -1002657265233)
+2025-05-13 22:37:50,847 - WARNING - Could not get message history for Test: object async_generator can't be used in 'await' expression
+2025-05-13 22:37:51,012 - WARNING - Could not verify permissions in Test: 'NoneType' object has no attribute 'can_post_messages'
+2025-05-13 22:38:09,345 - INFO - NetworkTask stopped
+2025-05-13 22:38:09,346 - INFO - PingTask stopped
+2025-05-13 22:38:09,346 - INFO - Disconnected
+2025-05-13 22:38:09,346 - INFO - Session stopped
+2025-05-13 22:38:09,347 - INFO - Connecting...
+2025-05-13 22:38:09,413 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:38:09,413 - INFO - NetworkTask started
+2025-05-13 22:38:09,676 - INFO - Session initialized: Layer 158
+2025-05-13 22:38:09,676 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:38:09,676 - INFO - System: Windows 10 (en)
+2025-05-13 22:38:09,677 - INFO - Session started
+2025-05-13 22:38:09,677 - INFO - PingTask started
+2025-05-13 22:38:24,341 - INFO - [1] Retrying "contacts.ResolveUsername" due to: Request timed out
+2025-05-13 22:38:25,050 - INFO - Verified channel: koko (ID: -1002659936082)
+2025-05-13 22:38:25,153 - WARNING - Could not get message history for koko: object async_generator can't be used in 'await' expression
+2025-05-13 22:38:25,320 - INFO - User permissions in koko: ChatMemberStatus.ADMINISTRATOR
+2025-05-13 22:38:40,296 - INFO - NetworkTask stopped
+2025-05-13 22:38:40,297 - INFO - PingTask stopped
+2025-05-13 22:38:40,297 - INFO - Disconnected
+2025-05-13 22:38:40,297 - INFO - Session stopped
+2025-05-13 22:38:40,297 - INFO - Connecting...
+2025-05-13 22:38:40,365 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:38:40,365 - INFO - NetworkTask started
+2025-05-13 22:38:40,751 - INFO - Session initialized: Layer 158
+2025-05-13 22:38:40,753 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:38:40,753 - INFO - System: Windows 10 (en)
+2025-05-13 22:38:40,754 - INFO - Session started
+2025-05-13 22:38:40,755 - INFO - PingTask started
+2025-05-13 22:38:40,949 - INFO - Found 8 messages to copy
+2025-05-13 22:38:41,351 - ERROR - Error copying message 8: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:38:41,625 - ERROR - Error copying message 7: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:38:41,847 - ERROR - Error copying message 6: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:38:42,024 - ERROR - Error copying message 5: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:38:42,194 - ERROR - Error copying message 4: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:38:42,481 - ERROR - Error copying message 3: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:38:42,681 - ERROR - Error copying message 2: Telegram says: [400 CHAT_FORWARDS_RESTRICTED] - The chat restricts forwarding content (caused by "messages.SendMedia")
+2025-05-13 22:38:42,762 - WARNING - Service messages cannot be copied. chat_id: -1002657265233, message_id: 1
+2025-05-13 22:38:42,771 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:38:42,772 - INFO - PingTask stopped
+2025-05-13 22:38:42,772 - INFO - Disconnected
+2025-05-13 22:38:42,772 - INFO - NetworkTask stopped
+2025-05-13 22:38:42,772 - INFO - Session stopped
+2025-05-13 22:38:42,772 - INFO - Application stopped successfully
+2025-05-13 22:40:41,126 - INFO - Starting Telegram Message Copier
+2025-05-13 22:40:44,677 - INFO - Connecting...
+2025-05-13 22:40:44,743 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:40:44,744 - INFO - NetworkTask started
+2025-05-13 22:40:45,105 - INFO - Session initialized: Layer 158
+2025-05-13 22:40:45,105 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:40:45,106 - INFO - System: Windows 10 (en)
+2025-05-13 22:40:45,106 - INFO - Session started
+2025-05-13 22:40:45,112 - INFO - PingTask started
+2025-05-13 22:40:45,399 - INFO - Started 16 HandlerTasks
+2025-05-13 22:40:45,507 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 22:40:51,091 - INFO - Verified channel: Test (ID: -1002657265233)
+2025-05-13 22:40:51,176 - WARNING - Could not get message history for Test: object async_generator can't be used in 'await' expression
+2025-05-13 22:40:51,338 - WARNING - Could not verify permissions in Test: 'NoneType' object has no attribute 'can_post_messages'
+2025-05-13 22:41:02,575 - INFO - NetworkTask stopped
+2025-05-13 22:41:02,576 - INFO - PingTask stopped
+2025-05-13 22:41:02,576 - INFO - Disconnected
+2025-05-13 22:41:02,576 - INFO - Session stopped
+2025-05-13 22:41:02,576 - INFO - Connecting...
+2025-05-13 22:41:02,642 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:41:02,643 - INFO - NetworkTask started
+2025-05-13 22:41:02,893 - INFO - Session initialized: Layer 158
+2025-05-13 22:41:02,894 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:41:02,894 - INFO - System: Windows 10 (en)
+2025-05-13 22:41:02,894 - INFO - Session started
+2025-05-13 22:41:02,894 - INFO - PingTask started
+2025-05-13 22:41:17,579 - INFO - [1] Retrying "contacts.ResolveUsername" due to: Request timed out
+2025-05-13 22:41:18,529 - INFO - Verified channel: koko (ID: -1002659936082)
+2025-05-13 22:41:18,689 - WARNING - Could not get message history for koko: object async_generator can't be used in 'await' expression
+2025-05-13 22:41:18,963 - INFO - User permissions in koko: ChatMemberStatus.ADMINISTRATOR
+2025-05-13 22:41:30,672 - INFO - NetworkTask stopped
+2025-05-13 22:41:30,673 - INFO - PingTask stopped
+2025-05-13 22:41:30,673 - INFO - Disconnected
+2025-05-13 22:41:30,673 - INFO - Session stopped
+2025-05-13 22:41:30,673 - INFO - Connecting...
+2025-05-13 22:41:30,740 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:41:30,741 - INFO - NetworkTask started
+2025-05-13 22:41:30,925 - INFO - Discarding packet: The msg_id is lower than all the stored values
+2025-05-13 22:41:30,925 - INFO - Send exception: ConnectionResetError Connection lost
+2025-05-13 22:41:30,925 - INFO - Disconnected
+2025-05-13 22:41:30,926 - INFO - NetworkTask stopped
+2025-05-13 22:41:30,926 - INFO - Disconnected
+2025-05-13 22:41:30,926 - INFO - Session stopped
+2025-05-13 22:41:30,926 - INFO - Connecting...
+2025-05-13 22:41:30,993 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:41:30,994 - INFO - NetworkTask started
+2025-05-13 22:41:31,250 - INFO - Session initialized: Layer 158
+2025-05-13 22:41:31,250 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:41:31,250 - INFO - System: Windows 10 (en)
+2025-05-13 22:41:31,250 - INFO - Session started
+2025-05-13 22:41:31,251 - INFO - PingTask started
+2025-05-13 22:41:45,667 - INFO - [1] Retrying "messages.GetHistory" due to: Request timed out
+2025-05-13 22:41:46,496 - INFO - Found 8 messages to copy
+2025-05-13 22:41:46,504 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:41:46,504 - INFO - PingTask stopped
+2025-05-13 22:41:46,504 - INFO - Disconnected
+2025-05-13 22:41:46,505 - INFO - NetworkTask stopped
+2025-05-13 22:41:46,505 - INFO - Session stopped
+2025-05-13 22:41:46,505 - INFO - Application stopped successfully
+2025-05-13 22:44:52,306 - INFO - Starting Telegram Message Copier
+2025-05-13 22:44:57,201 - INFO - Connecting...
+2025-05-13 22:44:57,261 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:44:57,262 - INFO - NetworkTask started
+2025-05-13 22:44:57,582 - INFO - Session initialized: Layer 158
+2025-05-13 22:44:57,583 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:44:57,583 - INFO - System: Windows 10 (en)
+2025-05-13 22:44:57,583 - INFO - Session started
+2025-05-13 22:44:57,589 - INFO - PingTask started
+2025-05-13 22:44:57,733 - INFO - Started 16 HandlerTasks
+2025-05-13 22:44:57,805 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 22:45:12,267 - INFO - Verified channel: Test (ID: -1002657265233)
+2025-05-13 22:45:12,365 - WARNING - Could not get message history for Test: object async_generator can't be used in 'await' expression
+2025-05-13 22:45:12,551 - WARNING - Could not verify permissions in Test: 'NoneType' object has no attribute 'can_post_messages'
+2025-05-13 22:45:25,887 - INFO - NetworkTask stopped
+2025-05-13 22:45:25,888 - INFO - PingTask stopped
+2025-05-13 22:45:25,888 - INFO - Disconnected
+2025-05-13 22:45:25,888 - INFO - Session stopped
+2025-05-13 22:45:25,889 - INFO - Connecting...
+2025-05-13 22:45:25,954 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:45:25,955 - INFO - NetworkTask started
+2025-05-13 22:45:48,477 - INFO - NetworkTask stopped
+2025-05-13 22:45:50,472 - INFO - Disconnected
+2025-05-13 22:45:50,472 - INFO - Session stopped
+2025-05-13 22:45:50,472 - INFO - Connecting...
+2025-05-13 22:45:50,539 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:45:50,540 - INFO - NetworkTask started
+2025-05-13 22:45:50,798 - INFO - Session initialized: Layer 158
+2025-05-13 22:45:50,799 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:45:50,799 - INFO - System: Windows 10 (en)
+2025-05-13 22:45:50,799 - INFO - Session started
+2025-05-13 22:45:50,799 - INFO - PingTask started
+2025-05-13 22:45:50,995 - INFO - Verified channel: koko (ID: -1002659936082)
+2025-05-13 22:45:51,159 - WARNING - Could not get message history for koko: object async_generator can't be used in 'await' expression
+2025-05-13 22:45:51,338 - INFO - User permissions in koko: ChatMemberStatus.ADMINISTRATOR
+2025-05-13 22:45:58,556 - INFO - Found 8 messages to copy
+2025-05-13 22:45:58,921 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:45:58,921 - INFO - PingTask stopped
+2025-05-13 22:45:58,921 - INFO - Disconnected
+2025-05-13 22:45:58,922 - INFO - NetworkTask stopped
+2025-05-13 22:45:58,922 - INFO - Session stopped
+2025-05-13 22:45:58,922 - INFO - Application stopped successfully
+2025-05-13 22:47:49,324 - INFO - Starting Telegram Message Copier
+2025-05-13 22:47:53,434 - INFO - Connecting...
+2025-05-13 22:47:53,500 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:47:53,501 - INFO - NetworkTask started
+2025-05-13 22:47:53,821 - INFO - Session initialized: Layer 158
+2025-05-13 22:47:53,821 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:47:53,821 - INFO - System: Windows 10 (en)
+2025-05-13 22:47:53,822 - INFO - Session started
+2025-05-13 22:47:53,828 - INFO - PingTask started
+2025-05-13 22:47:53,982 - INFO - Started 16 HandlerTasks
+2025-05-13 22:47:54,075 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 22:47:54,563 - INFO - Connecting...
+2025-05-13 22:47:54,630 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:47:54,630 - INFO - NetworkTask started
+2025-05-13 22:47:54,949 - INFO - Session initialized: Layer 158
+2025-05-13 22:47:54,950 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:47:54,951 - INFO - System: Windows 10 (en)
+2025-05-13 22:47:54,952 - INFO - Session started
+2025-05-13 22:47:54,971 - INFO - PingTask started
+2025-05-13 22:47:55,132 - INFO - Started 16 HandlerTasks
+2025-05-13 22:47:55,139 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:48:02,902 - INFO - Verified channel: Test (ID: -1002657265233)
+2025-05-13 22:48:03,023 - WARNING - Could not get message history for Test: object async_generator can't be used in 'await' expression
+2025-05-13 22:48:03,272 - WARNING - Could not verify permissions in Test: 'NoneType' object has no attribute 'can_post_messages'
+2025-05-13 22:48:08,757 - INFO - Verified channel: koko (ID: -1002659936082)
+2025-05-13 22:48:08,855 - WARNING - Could not get message history for koko: object async_generator can't be used in 'await' expression
+2025-05-13 22:48:09,011 - INFO - User permissions in koko: ChatMemberStatus.ADMINISTRATOR
+2025-05-13 22:48:18,807 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:48:18,808 - INFO - NetworkTask stopped
+2025-05-13 22:48:18,808 - INFO - PingTask stopped
+2025-05-13 22:48:18,808 - INFO - Disconnected
+2025-05-13 22:48:18,809 - INFO - Session stopped
+2025-05-13 22:48:18,809 - INFO - Connecting...
+2025-05-13 22:48:18,873 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:48:18,875 - INFO - NetworkTask started
+2025-05-13 22:48:19,125 - INFO - Session initialized: Layer 158
+2025-05-13 22:48:19,126 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:48:19,127 - INFO - System: Windows 10 (en)
+2025-05-13 22:48:19,128 - INFO - Session started
+2025-05-13 22:48:19,129 - INFO - PingTask started
+2025-05-13 22:48:19,202 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:48:19,202 - INFO - Found 10 messages to copy
+2025-05-13 22:48:19,606 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:48:19,613 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:48:19,613 - INFO - PingTask stopped
+2025-05-13 22:48:19,613 - INFO - Disconnected
+2025-05-13 22:48:19,613 - INFO - NetworkTask stopped
+2025-05-13 22:48:19,613 - INFO - Session stopped
+2025-05-13 22:48:19,754 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:48:19,755 - INFO - PingTask stopped
+2025-05-13 22:48:19,755 - INFO - Disconnected
+2025-05-13 22:48:19,756 - INFO - NetworkTask stopped
+2025-05-13 22:48:19,756 - INFO - Session stopped
+2025-05-13 22:48:19,756 - INFO - Application stopped successfully
+2025-05-13 22:50:21,819 - INFO - Starting Telegram Message Copier
+2025-05-13 22:50:23,904 - INFO - Connecting...
+2025-05-13 22:50:23,971 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:50:23,972 - INFO - NetworkTask started
+2025-05-13 22:50:24,292 - INFO - Session initialized: Layer 158
+2025-05-13 22:50:24,294 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:50:24,294 - INFO - System: Windows 10 (en)
+2025-05-13 22:50:24,294 - INFO - Session started
+2025-05-13 22:50:24,300 - INFO - PingTask started
+2025-05-13 22:50:24,461 - INFO - Started 16 HandlerTasks
+2025-05-13 22:50:24,554 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 22:50:25,119 - INFO - Connecting...
+2025-05-13 22:50:25,189 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:50:25,189 - INFO - NetworkTask started
+2025-05-13 22:50:25,552 - INFO - Session initialized: Layer 158
+2025-05-13 22:50:25,553 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:50:25,553 - INFO - System: Windows 10 (en)
+2025-05-13 22:50:25,553 - INFO - Session started
+2025-05-13 22:50:25,559 - INFO - PingTask started
+2025-05-13 22:50:25,745 - INFO - Started 16 HandlerTasks
+2025-05-13 22:50:25,751 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:50:31,088 - INFO - Verified channel: Test (ID: -1002657265233)
+2025-05-13 22:50:31,177 - WARNING - Could not get message history for Test: object async_generator can't be used in 'await' expression
+2025-05-13 22:50:31,542 - WARNING - Could not verify permissions in Test: 'NoneType' object has no attribute 'can_post_messages'
+2025-05-13 22:50:44,879 - INFO - NetworkTask stopped
+2025-05-13 22:50:44,880 - INFO - NetworkTask stopped
+2025-05-13 22:50:44,880 - INFO - PingTask stopped
+2025-05-13 22:50:44,880 - INFO - PingTask stopped
+2025-05-13 22:50:44,881 - INFO - Disconnected
+2025-05-13 22:50:44,881 - INFO - Session stopped
+2025-05-13 22:50:44,881 - INFO - Connecting...
+2025-05-13 22:50:44,881 - INFO - Disconnected
+2025-05-13 22:50:44,881 - INFO - Session stopped
+2025-05-13 22:50:44,882 - INFO - Connecting...
+2025-05-13 22:50:44,946 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:50:44,947 - INFO - NetworkTask started
+2025-05-13 22:50:44,947 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:50:44,948 - INFO - NetworkTask started
+2025-05-13 22:50:45,277 - INFO - Session initialized: Layer 158
+2025-05-13 22:50:45,277 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:50:45,277 - INFO - System: Windows 10 (en)
+2025-05-13 22:50:45,278 - INFO - Session started
+2025-05-13 22:50:45,278 - INFO - PingTask started
+2025-05-13 22:50:45,281 - INFO - Session initialized: Layer 158
+2025-05-13 22:50:45,281 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:50:45,282 - INFO - System: Windows 10 (en)
+2025-05-13 22:50:45,282 - INFO - Session started
+2025-05-13 22:50:45,282 - INFO - PingTask started
+2025-05-13 22:50:45,518 - INFO - Verified channel: Test (ID: -1002657265233)
+2025-05-13 22:50:45,762 - WARNING - Could not get message history for Test: object async_generator can't be used in 'await' expression
+2025-05-13 22:50:46,075 - WARNING - Could not verify permissions in Test: 'NoneType' object has no attribute 'can_post_messages'
+2025-05-13 22:50:52,836 - INFO - Verified channel: koko (ID: -1002659936082)
+2025-05-13 22:50:52,995 - WARNING - Could not get message history for koko: object async_generator can't be used in 'await' expression
+2025-05-13 22:50:53,158 - INFO - User permissions in koko: ChatMemberStatus.ADMINISTRATOR
+2025-05-13 22:51:00,151 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:51:00,390 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:51:00,391 - INFO - Found 10 messages to copy
+2025-05-13 22:51:00,718 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:51:00,722 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:51:00,725 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:51:00,726 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:51:00,727 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:51:00,727 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:51:00,728 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:51:00,728 - ERROR - Error sending notification: Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+2025-05-13 22:51:00,735 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:51:00,736 - INFO - PingTask stopped
+2025-05-13 22:51:00,736 - INFO - Disconnected
+2025-05-13 22:51:00,736 - INFO - NetworkTask stopped
+2025-05-13 22:51:00,736 - INFO - Session stopped
+2025-05-13 22:51:00,920 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:51:00,921 - INFO - PingTask stopped
+2025-05-13 22:51:00,921 - INFO - Disconnected
+2025-05-13 22:51:00,921 - INFO - NetworkTask stopped
+2025-05-13 22:51:00,921 - INFO - Session stopped
+2025-05-13 22:51:00,922 - INFO - Application stopped successfully
+2025-05-13 22:53:51,270 - INFO - Starting Telegram Message Copier
+2025-05-13 22:53:54,757 - INFO - Connecting...
+2025-05-13 22:53:54,822 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:53:54,823 - INFO - NetworkTask started
+2025-05-13 22:53:55,137 - INFO - Session initialized: Layer 158
+2025-05-13 22:53:55,138 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:53:55,138 - INFO - System: Windows 10 (en)
+2025-05-13 22:53:55,139 - INFO - Session started
+2025-05-13 22:53:55,145 - INFO - PingTask started
+2025-05-13 22:53:55,308 - INFO - Started 16 HandlerTasks
+2025-05-13 22:53:55,390 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 22:53:55,944 - INFO - Connecting...
+2025-05-13 22:53:56,011 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:53:56,011 - INFO - NetworkTask started
+2025-05-13 22:53:56,333 - INFO - Session initialized: Layer 158
+2025-05-13 22:53:56,333 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:53:56,335 - INFO - System: Windows 10 (en)
+2025-05-13 22:53:56,335 - INFO - Session started
+2025-05-13 22:53:56,341 - INFO - PingTask started
+2025-05-13 22:53:56,527 - INFO - Started 16 HandlerTasks
+2025-05-13 22:54:05,265 - INFO - Verified channel: Test (ID: -1002657265233)
+2025-05-13 22:54:05,377 - WARNING - Could not get message history for Test: object async_generator can't be used in 'await' expression
+2025-05-13 22:54:05,661 - WARNING - Could not verify permissions in Test: 'NoneType' object has no attribute 'can_post_messages'
+2025-05-13 22:54:10,144 - INFO - Verified channel: koko (ID: -1002659936082)
+2025-05-13 22:54:10,357 - WARNING - Could not get message history for koko: object async_generator can't be used in 'await' expression
+2025-05-13 22:54:10,726 - INFO - User permissions in koko: ChatMemberStatus.ADMINISTRATOR
+2025-05-13 22:54:17,132 - INFO - Found 10 messages to copy
+2025-05-13 22:54:18,597 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:54:18,598 - INFO - PingTask stopped
+2025-05-13 22:54:18,598 - INFO - Disconnected
+2025-05-13 22:54:18,598 - INFO - NetworkTask stopped
+2025-05-13 22:54:18,598 - INFO - Session stopped
+2025-05-13 22:54:18,717 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:54:18,719 - INFO - PingTask stopped
+2025-05-13 22:54:18,720 - INFO - Disconnected
+2025-05-13 22:54:18,720 - INFO - NetworkTask stopped
+2025-05-13 22:54:18,721 - INFO - Session stopped
+2025-05-13 22:54:18,722 - INFO - Application stopped successfully
+2025-05-13 22:55:38,365 - INFO - Starting Telegram Message Copier
+2025-05-13 22:55:41,725 - INFO - Connecting...
+2025-05-13 22:55:41,790 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:55:41,791 - INFO - NetworkTask started
+2025-05-13 22:55:42,244 - INFO - Session initialized: Layer 158
+2025-05-13 22:55:42,245 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:55:42,245 - INFO - System: Windows 10 (en)
+2025-05-13 22:55:42,245 - INFO - Session started
+2025-05-13 22:55:42,250 - INFO - PingTask started
+2025-05-13 22:55:42,550 - INFO - Started 16 HandlerTasks
+2025-05-13 22:55:42,639 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 22:55:43,190 - INFO - Connecting...
+2025-05-13 22:55:43,255 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:55:43,257 - INFO - NetworkTask started
+2025-05-13 22:55:43,575 - INFO - Session initialized: Layer 158
+2025-05-13 22:55:43,575 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:55:43,576 - INFO - System: Windows 10 (en)
+2025-05-13 22:55:43,576 - INFO - Session started
+2025-05-13 22:55:43,582 - INFO - PingTask started
+2025-05-13 22:55:43,752 - INFO - Started 16 HandlerTasks
+2025-05-13 22:55:51,267 - INFO - Verified channel: Test (ID: -1002657265233)
+2025-05-13 22:55:51,378 - WARNING - Could not get message history for Test: object async_generator can't be used in 'await' expression
+2025-05-13 22:55:51,597 - WARNING - Could not verify permissions in Test: 'NoneType' object has no attribute 'can_post_messages'
+2025-05-13 22:56:06,313 - INFO - NetworkTask stopped
+2025-05-13 22:56:06,313 - INFO - NetworkTask stopped
+2025-05-13 22:56:06,314 - INFO - PingTask stopped
+2025-05-13 22:56:06,314 - INFO - PingTask stopped
+2025-05-13 22:56:06,314 - INFO - Disconnected
+2025-05-13 22:56:06,315 - INFO - Session stopped
+2025-05-13 22:56:06,315 - INFO - Connecting...
+2025-05-13 22:56:06,315 - INFO - Disconnected
+2025-05-13 22:56:06,315 - INFO - Session stopped
+2025-05-13 22:56:06,315 - INFO - Connecting...
+2025-05-13 22:56:06,381 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:56:06,382 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:56:06,382 - INFO - NetworkTask started
+2025-05-13 22:56:06,382 - INFO - NetworkTask started
+2025-05-13 22:56:06,653 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:06,653 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:06,653 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:06,654 - INFO - Session started
+2025-05-13 22:56:06,654 - INFO - PingTask started
+2025-05-13 22:56:06,657 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:06,657 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:06,657 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:06,658 - INFO - Session started
+2025-05-13 22:56:06,658 - INFO - PingTask started
+2025-05-13 22:56:06,792 - INFO - Verified channel: koko (ID: -1002659936082)
+2025-05-13 22:56:06,932 - WARNING - Could not get message history for koko: object async_generator can't be used in 'await' expression
+2025-05-13 22:56:07,151 - INFO - User permissions in koko: ChatMemberStatus.ADMINISTRATOR
+2025-05-13 22:56:17,673 - INFO - NetworkTask stopped
+2025-05-13 22:56:17,673 - INFO - NetworkTask stopped
+2025-05-13 22:56:17,674 - INFO - PingTask stopped
+2025-05-13 22:56:17,674 - INFO - PingTask stopped
+2025-05-13 22:56:17,674 - INFO - Disconnected
+2025-05-13 22:56:17,674 - INFO - Session stopped
+2025-05-13 22:56:17,675 - INFO - Connecting...
+2025-05-13 22:56:17,675 - INFO - Disconnected
+2025-05-13 22:56:17,675 - INFO - Session stopped
+2025-05-13 22:56:17,675 - INFO - Connecting...
+2025-05-13 22:56:17,739 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:56:17,740 - INFO - NetworkTask started
+2025-05-13 22:56:17,741 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:56:17,741 - INFO - NetworkTask started
+2025-05-13 22:56:17,994 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:17,994 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:17,994 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:17,995 - INFO - Session started
+2025-05-13 22:56:17,995 - INFO - PingTask started
+2025-05-13 22:56:18,070 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:18,071 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:18,071 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:18,072 - INFO - Session started
+2025-05-13 22:56:18,073 - INFO - PingTask started
+2025-05-13 22:56:32,673 - INFO - [1] Retrying "messages.SendMessage" due to: Request timed out
+2025-05-13 22:56:33,661 - INFO - Found 10 messages to copy
+2025-05-13 22:56:33,974 - INFO - Connecting...
+2025-05-13 22:56:34,039 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:34,040 - INFO - NetworkTask started
+2025-05-13 22:56:34,374 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:34,374 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:34,374 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:34,374 - INFO - Session started
+2025-05-13 22:56:34,377 - INFO - PingTask started
+2025-05-13 22:56:34,780 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:56:34,781 - INFO - PingTask stopped
+2025-05-13 22:56:34,781 - INFO - Disconnected
+2025-05-13 22:56:34,782 - INFO - NetworkTask stopped
+2025-05-13 22:56:34,782 - INFO - Session stopped
+2025-05-13 22:56:34,809 - INFO - Connecting...
+2025-05-13 22:56:34,874 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:34,875 - INFO - NetworkTask started
+2025-05-13 22:56:35,189 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:35,190 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:35,190 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:35,191 - INFO - Session started
+2025-05-13 22:56:35,192 - INFO - PingTask started
+2025-05-13 22:56:36,311 - INFO - PingTask stopped
+2025-05-13 22:56:36,313 - INFO - Disconnected
+2025-05-13 22:56:36,313 - INFO - NetworkTask stopped
+2025-05-13 22:56:36,313 - INFO - Session stopped
+2025-05-13 22:56:36,496 - INFO - Connecting...
+2025-05-13 22:56:36,562 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:36,563 - INFO - NetworkTask started
+2025-05-13 22:56:36,890 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:36,890 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:36,891 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:36,892 - INFO - Session started
+2025-05-13 22:56:36,908 - INFO - PingTask started
+2025-05-13 22:56:37,121 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:56:37,124 - INFO - PingTask stopped
+2025-05-13 22:56:37,126 - INFO - Disconnected
+2025-05-13 22:56:37,126 - INFO - NetworkTask stopped
+2025-05-13 22:56:37,128 - INFO - Session stopped
+2025-05-13 22:56:37,148 - INFO - Connecting...
+2025-05-13 22:56:37,212 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:37,213 - INFO - NetworkTask started
+2025-05-13 22:56:37,533 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:37,534 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:37,535 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:37,537 - INFO - Session started
+2025-05-13 22:56:37,538 - INFO - PingTask started
+2025-05-13 22:56:37,775 - INFO - PingTask stopped
+2025-05-13 22:56:37,776 - INFO - Disconnected
+2025-05-13 22:56:37,777 - INFO - NetworkTask stopped
+2025-05-13 22:56:37,778 - INFO - Session stopped
+2025-05-13 22:56:38,011 - INFO - Connecting...
+2025-05-13 22:56:38,076 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:38,077 - INFO - NetworkTask started
+2025-05-13 22:56:38,400 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:38,400 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:38,400 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:38,401 - INFO - Session started
+2025-05-13 22:56:38,404 - INFO - PingTask started
+2025-05-13 22:56:38,805 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:56:38,806 - INFO - PingTask stopped
+2025-05-13 22:56:38,806 - INFO - Disconnected
+2025-05-13 22:56:38,806 - INFO - NetworkTask stopped
+2025-05-13 22:56:38,807 - INFO - Session stopped
+2025-05-13 22:56:38,823 - INFO - Connecting...
+2025-05-13 22:56:38,888 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:38,890 - INFO - NetworkTask started
+2025-05-13 22:56:39,214 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:39,214 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:39,215 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:39,215 - INFO - Session started
+2025-05-13 22:56:39,216 - INFO - PingTask started
+2025-05-13 22:56:40,280 - INFO - PingTask stopped
+2025-05-13 22:56:40,281 - INFO - Disconnected
+2025-05-13 22:56:40,281 - INFO - NetworkTask stopped
+2025-05-13 22:56:40,281 - INFO - Session stopped
+2025-05-13 22:56:40,619 - INFO - Connecting...
+2025-05-13 22:56:40,685 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:40,685 - INFO - NetworkTask started
+2025-05-13 22:56:41,024 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:41,024 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:41,024 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:41,024 - INFO - Session started
+2025-05-13 22:56:41,029 - INFO - PingTask started
+2025-05-13 22:56:41,415 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:56:41,415 - INFO - PingTask stopped
+2025-05-13 22:56:41,417 - INFO - Disconnected
+2025-05-13 22:56:41,417 - INFO - NetworkTask stopped
+2025-05-13 22:56:41,417 - INFO - Session stopped
+2025-05-13 22:56:41,433 - INFO - Connecting...
+2025-05-13 22:56:41,497 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:41,497 - INFO - NetworkTask started
+2025-05-13 22:56:41,817 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:41,818 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:41,818 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:41,818 - INFO - Session started
+2025-05-13 22:56:41,819 - INFO - PingTask started
+2025-05-13 22:56:43,155 - INFO - PingTask stopped
+2025-05-13 22:56:43,155 - INFO - Disconnected
+2025-05-13 22:56:43,155 - INFO - NetworkTask stopped
+2025-05-13 22:56:43,156 - INFO - Session stopped
+2025-05-13 22:56:43,624 - INFO - Connecting...
+2025-05-13 22:56:43,696 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:43,697 - INFO - NetworkTask started
+2025-05-13 22:56:44,026 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:44,026 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:44,026 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:44,026 - INFO - Session started
+2025-05-13 22:56:44,029 - INFO - PingTask started
+2025-05-13 22:56:44,457 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:56:44,457 - INFO - PingTask stopped
+2025-05-13 22:56:44,458 - INFO - Disconnected
+2025-05-13 22:56:44,458 - INFO - NetworkTask stopped
+2025-05-13 22:56:44,458 - INFO - Session stopped
+2025-05-13 22:56:44,475 - INFO - Connecting...
+2025-05-13 22:56:44,540 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:44,540 - INFO - NetworkTask started
+2025-05-13 22:56:44,889 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:44,889 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:44,890 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:44,890 - INFO - Session started
+2025-05-13 22:56:44,891 - INFO - PingTask started
+2025-05-13 22:56:46,001 - INFO - PingTask stopped
+2025-05-13 22:56:46,002 - INFO - Disconnected
+2025-05-13 22:56:46,003 - INFO - NetworkTask stopped
+2025-05-13 22:56:46,004 - INFO - Session stopped
+2025-05-13 22:56:46,429 - INFO - Connecting...
+2025-05-13 22:56:46,495 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:46,495 - INFO - NetworkTask started
+2025-05-13 22:56:46,862 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:46,862 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:46,864 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:46,865 - INFO - Session started
+2025-05-13 22:56:46,869 - INFO - PingTask started
+2025-05-13 22:56:47,325 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:56:47,326 - INFO - PingTask stopped
+2025-05-13 22:56:47,326 - INFO - Disconnected
+2025-05-13 22:56:47,326 - INFO - NetworkTask stopped
+2025-05-13 22:56:47,326 - INFO - Session stopped
+2025-05-13 22:56:47,342 - INFO - Connecting...
+2025-05-13 22:56:47,407 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:47,408 - INFO - NetworkTask started
+2025-05-13 22:56:47,744 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:47,745 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:47,745 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:47,745 - INFO - Session started
+2025-05-13 22:56:47,746 - INFO - PingTask started
+2025-05-13 22:56:48,832 - INFO - PingTask stopped
+2025-05-13 22:56:48,832 - INFO - Disconnected
+2025-05-13 22:56:48,833 - INFO - NetworkTask stopped
+2025-05-13 22:56:48,834 - INFO - Session stopped
+2025-05-13 22:56:49,160 - INFO - Connecting...
+2025-05-13 22:56:49,226 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:49,226 - INFO - NetworkTask started
+2025-05-13 22:56:49,551 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:49,551 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:49,551 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:49,551 - INFO - Session started
+2025-05-13 22:56:49,554 - INFO - PingTask started
+2025-05-13 22:56:49,954 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:56:49,954 - INFO - PingTask stopped
+2025-05-13 22:56:49,955 - INFO - Disconnected
+2025-05-13 22:56:49,955 - INFO - NetworkTask stopped
+2025-05-13 22:56:49,955 - INFO - Session stopped
+2025-05-13 22:56:49,972 - INFO - Connecting...
+2025-05-13 22:56:50,038 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:56:50,039 - INFO - NetworkTask started
+2025-05-13 22:56:50,358 - INFO - Session initialized: Layer 158
+2025-05-13 22:56:50,358 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:56:50,358 - INFO - System: Windows 10 (en)
+2025-05-13 22:56:50,358 - INFO - Session started
+2025-05-13 22:56:50,359 - INFO - PingTask started
+2025-05-13 22:56:52,277 - INFO - PingTask stopped
+2025-05-13 22:56:52,278 - INFO - Disconnected
+2025-05-13 22:56:52,279 - INFO - NetworkTask stopped
+2025-05-13 22:56:52,280 - INFO - Session stopped
+2025-05-13 22:56:52,767 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:56:52,767 - INFO - PingTask stopped
+2025-05-13 22:56:52,767 - INFO - Disconnected
+2025-05-13 22:56:52,767 - INFO - NetworkTask stopped
+2025-05-13 22:56:52,768 - INFO - Session stopped
+2025-05-13 22:56:52,925 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:56:52,926 - INFO - PingTask stopped
+2025-05-13 22:56:52,926 - INFO - Disconnected
+2025-05-13 22:56:52,926 - INFO - NetworkTask stopped
+2025-05-13 22:56:52,926 - INFO - Session stopped
+2025-05-13 22:56:52,927 - INFO - Application stopped successfully
+2025-05-13 22:57:55,387 - INFO - Starting Telegram Message Copier
+2025-05-13 22:57:58,402 - INFO - Connecting...
+2025-05-13 22:57:58,470 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:57:58,473 - INFO - NetworkTask started
+2025-05-13 22:57:58,836 - INFO - Session initialized: Layer 158
+2025-05-13 22:57:58,837 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:57:58,837 - INFO - System: Windows 10 (en)
+2025-05-13 22:57:58,837 - INFO - Session started
+2025-05-13 22:57:58,842 - INFO - PingTask started
+2025-05-13 22:57:59,014 - INFO - Started 16 HandlerTasks
+2025-05-13 22:57:59,106 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 22:57:59,619 - INFO - Connecting...
+2025-05-13 22:57:59,685 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:57:59,685 - INFO - NetworkTask started
+2025-05-13 22:58:00,006 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:00,006 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:00,006 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:00,006 - INFO - Session started
+2025-05-13 22:58:00,013 - INFO - PingTask started
+2025-05-13 22:58:00,167 - INFO - Started 16 HandlerTasks
+2025-05-13 22:58:09,953 - INFO - NetworkTask stopped
+2025-05-13 22:58:09,954 - INFO - PingTask stopped
+2025-05-13 22:58:09,954 - INFO - Disconnected
+2025-05-13 22:58:09,954 - INFO - Session stopped
+2025-05-13 22:58:09,954 - INFO - Connecting...
+2025-05-13 22:58:10,021 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:58:10,021 - INFO - NetworkTask started
+2025-05-13 22:58:10,321 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:10,321 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:10,321 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:10,322 - INFO - Session started
+2025-05-13 22:58:10,322 - INFO - PingTask started
+2025-05-13 22:58:10,422 - INFO - Verified channel: Test (ID: -1002657265233)
+2025-05-13 22:58:10,718 - WARNING - Could not get message history for Test: object async_generator can't be used in 'await' expression
+2025-05-13 22:58:10,899 - WARNING - Could not verify permissions in Test: 'NoneType' object has no attribute 'can_post_messages'
+2025-05-13 22:58:23,679 - INFO - NetworkTask stopped
+2025-05-13 22:58:23,681 - INFO - PingTask stopped
+2025-05-13 22:58:23,681 - INFO - Disconnected
+2025-05-13 22:58:23,681 - INFO - Session stopped
+2025-05-13 22:58:23,682 - INFO - Connecting...
+2025-05-13 22:58:23,745 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 22:58:23,746 - INFO - NetworkTask started
+2025-05-13 22:58:23,912 - INFO - Verified channel: koko (ID: -1002659936082)
+2025-05-13 22:58:23,993 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:23,994 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:23,994 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:23,994 - INFO - Session started
+2025-05-13 22:58:23,994 - INFO - PingTask started
+2025-05-13 22:58:24,006 - WARNING - Could not get message history for koko: object async_generator can't be used in 'await' expression
+2025-05-13 22:58:24,168 - INFO - User permissions in koko: ChatMemberStatus.ADMINISTRATOR
+2025-05-13 22:58:33,235 - INFO - Found 10 messages to copy
+2025-05-13 22:58:33,570 - INFO - Connecting...
+2025-05-13 22:58:33,635 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:33,635 - INFO - NetworkTask started
+2025-05-13 22:58:34,036 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:34,036 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:34,036 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:34,036 - INFO - Session started
+2025-05-13 22:58:34,040 - INFO - PingTask started
+2025-05-13 22:58:34,545 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:58:34,546 - INFO - PingTask stopped
+2025-05-13 22:58:34,546 - INFO - Disconnected
+2025-05-13 22:58:34,546 - INFO - NetworkTask stopped
+2025-05-13 22:58:34,547 - INFO - Session stopped
+2025-05-13 22:58:34,573 - INFO - Connecting...
+2025-05-13 22:58:34,638 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:34,638 - INFO - NetworkTask started
+2025-05-13 22:58:34,962 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:34,962 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:34,963 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:34,964 - INFO - Session started
+2025-05-13 22:58:34,964 - INFO - PingTask started
+2025-05-13 22:58:36,062 - INFO - PingTask stopped
+2025-05-13 22:58:36,063 - INFO - Disconnected
+2025-05-13 22:58:36,064 - INFO - NetworkTask stopped
+2025-05-13 22:58:36,065 - INFO - Session stopped
+2025-05-13 22:58:36,256 - INFO - Connecting...
+2025-05-13 22:58:36,321 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:36,321 - INFO - NetworkTask started
+2025-05-13 22:58:36,656 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:36,656 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:36,656 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:36,657 - INFO - Session started
+2025-05-13 22:58:36,660 - INFO - PingTask started
+2025-05-13 22:58:36,842 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:58:36,844 - INFO - PingTask stopped
+2025-05-13 22:58:36,844 - INFO - Disconnected
+2025-05-13 22:58:36,844 - INFO - NetworkTask stopped
+2025-05-13 22:58:36,844 - INFO - Session stopped
+2025-05-13 22:58:36,863 - INFO - Connecting...
+2025-05-13 22:58:36,928 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:36,929 - INFO - NetworkTask started
+2025-05-13 22:58:37,277 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:37,278 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:37,278 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:37,278 - INFO - Session started
+2025-05-13 22:58:37,278 - INFO - PingTask started
+2025-05-13 22:58:37,516 - INFO - PingTask stopped
+2025-05-13 22:58:37,516 - INFO - Disconnected
+2025-05-13 22:58:37,516 - INFO - NetworkTask stopped
+2025-05-13 22:58:37,517 - INFO - Session stopped
+2025-05-13 22:58:37,710 - INFO - Connecting...
+2025-05-13 22:58:37,773 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:37,774 - INFO - NetworkTask started
+2025-05-13 22:58:38,084 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:38,084 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:38,084 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:38,085 - INFO - Session started
+2025-05-13 22:58:38,089 - INFO - PingTask started
+2025-05-13 22:58:38,470 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:58:38,470 - INFO - PingTask stopped
+2025-05-13 22:58:38,471 - INFO - Disconnected
+2025-05-13 22:58:38,471 - INFO - NetworkTask stopped
+2025-05-13 22:58:38,471 - INFO - Session stopped
+2025-05-13 22:58:38,488 - INFO - Connecting...
+2025-05-13 22:58:38,553 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:38,553 - INFO - NetworkTask started
+2025-05-13 22:58:38,867 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:38,867 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:38,867 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:38,868 - INFO - Session started
+2025-05-13 22:58:38,869 - INFO - PingTask started
+2025-05-13 22:58:40,066 - INFO - PingTask stopped
+2025-05-13 22:58:40,066 - INFO - Disconnected
+2025-05-13 22:58:40,066 - INFO - NetworkTask stopped
+2025-05-13 22:58:40,067 - INFO - Session stopped
+2025-05-13 22:58:40,264 - INFO - Connecting...
+2025-05-13 22:58:40,328 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:40,329 - INFO - NetworkTask started
+2025-05-13 22:58:40,646 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:40,647 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:40,648 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:40,650 - INFO - Session started
+2025-05-13 22:58:40,665 - INFO - PingTask started
+2025-05-13 22:58:41,043 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:58:41,044 - INFO - PingTask stopped
+2025-05-13 22:58:41,044 - INFO - Disconnected
+2025-05-13 22:58:41,044 - INFO - NetworkTask stopped
+2025-05-13 22:58:41,044 - INFO - Session stopped
+2025-05-13 22:58:41,060 - INFO - Connecting...
+2025-05-13 22:58:41,127 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:41,127 - INFO - NetworkTask started
+2025-05-13 22:58:41,454 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:41,455 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:41,455 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:41,455 - INFO - Session started
+2025-05-13 22:58:41,456 - INFO - PingTask started
+2025-05-13 22:58:43,110 - INFO - PingTask stopped
+2025-05-13 22:58:43,112 - INFO - Disconnected
+2025-05-13 22:58:43,113 - INFO - NetworkTask stopped
+2025-05-13 22:58:43,114 - INFO - Session stopped
+2025-05-13 22:58:43,362 - INFO - Connecting...
+2025-05-13 22:58:43,428 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:43,428 - INFO - NetworkTask started
+2025-05-13 22:58:43,751 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:43,751 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:43,753 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:43,753 - INFO - Session started
+2025-05-13 22:58:43,756 - INFO - PingTask started
+2025-05-13 22:58:44,139 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:58:44,140 - INFO - PingTask stopped
+2025-05-13 22:58:44,140 - INFO - Disconnected
+2025-05-13 22:58:44,140 - INFO - NetworkTask stopped
+2025-05-13 22:58:44,140 - INFO - Session stopped
+2025-05-13 22:58:44,159 - INFO - Connecting...
+2025-05-13 22:58:44,221 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:44,221 - INFO - NetworkTask started
+2025-05-13 22:58:44,536 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:44,538 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:44,538 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:44,538 - INFO - Session started
+2025-05-13 22:58:44,539 - INFO - PingTask started
+2025-05-13 22:58:45,769 - INFO - PingTask stopped
+2025-05-13 22:58:45,769 - INFO - Disconnected
+2025-05-13 22:58:45,769 - INFO - NetworkTask stopped
+2025-05-13 22:58:45,770 - INFO - Session stopped
+2025-05-13 22:58:45,934 - INFO - Connecting...
+2025-05-13 22:58:45,996 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:45,996 - INFO - NetworkTask started
+2025-05-13 22:58:46,293 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:46,293 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:46,293 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:46,294 - INFO - Session started
+2025-05-13 22:58:46,297 - INFO - PingTask started
+2025-05-13 22:58:46,655 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:58:46,655 - INFO - PingTask stopped
+2025-05-13 22:58:46,656 - INFO - Disconnected
+2025-05-13 22:58:46,656 - INFO - NetworkTask stopped
+2025-05-13 22:58:46,656 - INFO - Session stopped
+2025-05-13 22:58:46,672 - INFO - Connecting...
+2025-05-13 22:58:46,737 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:46,737 - INFO - NetworkTask started
+2025-05-13 22:58:47,051 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:47,051 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:47,051 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:47,052 - INFO - Session started
+2025-05-13 22:58:47,052 - INFO - PingTask started
+2025-05-13 22:58:48,119 - INFO - PingTask stopped
+2025-05-13 22:58:48,119 - INFO - Disconnected
+2025-05-13 22:58:48,121 - INFO - NetworkTask stopped
+2025-05-13 22:58:48,121 - INFO - Session stopped
+2025-05-13 22:58:48,324 - INFO - Connecting...
+2025-05-13 22:58:48,387 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:48,387 - INFO - NetworkTask started
+2025-05-13 22:58:48,714 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:48,714 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:48,714 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:48,715 - INFO - Session started
+2025-05-13 22:58:48,718 - INFO - PingTask started
+2025-05-13 22:58:49,095 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 595, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 22:58:49,096 - INFO - PingTask stopped
+2025-05-13 22:58:49,096 - INFO - Disconnected
+2025-05-13 22:58:49,096 - INFO - NetworkTask stopped
+2025-05-13 22:58:49,097 - INFO - Session stopped
+2025-05-13 22:58:49,113 - INFO - Connecting...
+2025-05-13 22:58:49,179 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 22:58:49,179 - INFO - NetworkTask started
+2025-05-13 22:58:49,526 - INFO - Session initialized: Layer 158
+2025-05-13 22:58:49,527 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 22:58:49,527 - INFO - System: Windows 10 (en)
+2025-05-13 22:58:49,527 - INFO - Session started
+2025-05-13 22:58:49,528 - INFO - PingTask started
+2025-05-13 22:58:50,596 - INFO - PingTask stopped
+2025-05-13 22:58:50,596 - INFO - Disconnected
+2025-05-13 22:58:50,597 - INFO - NetworkTask stopped
+2025-05-13 22:58:50,597 - INFO - Session stopped
+2025-05-13 22:58:50,942 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:58:50,942 - INFO - PingTask stopped
+2025-05-13 22:58:50,942 - INFO - Disconnected
+2025-05-13 22:58:50,942 - INFO - NetworkTask stopped
+2025-05-13 22:58:50,944 - INFO - Session stopped
+2025-05-13 22:58:51,070 - INFO - Stopped 16 HandlerTasks
+2025-05-13 22:58:51,070 - INFO - PingTask stopped
+2025-05-13 22:58:51,071 - INFO - Disconnected
+2025-05-13 22:58:51,071 - INFO - NetworkTask stopped
+2025-05-13 22:58:51,071 - INFO - Session stopped
+2025-05-13 22:58:51,072 - INFO - Application stopped successfully
+2025-05-13 23:00:36,075 - INFO - Starting Telegram Message Copier
+2025-05-13 23:00:41,214 - INFO - Connecting...
+2025-05-13 23:00:41,279 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 23:00:41,280 - INFO - NetworkTask started
+2025-05-13 23:00:41,613 - INFO - Session initialized: Layer 158
+2025-05-13 23:00:41,613 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:00:41,614 - INFO - System: Windows 10 (en)
+2025-05-13 23:00:41,614 - INFO - Session started
+2025-05-13 23:00:41,619 - INFO - PingTask started
+2025-05-13 23:00:41,781 - INFO - Started 16 HandlerTasks
+2025-05-13 23:00:41,864 - INFO - Logged in with existing session as: MOHAMED (@None)
+2025-05-13 23:00:42,335 - INFO - Connecting...
+2025-05-13 23:00:42,401 - INFO - Connected! Production DC4 - IPv4
+2025-05-13 23:00:42,401 - INFO - NetworkTask started
+2025-05-13 23:00:42,724 - INFO - Session initialized: Layer 158
+2025-05-13 23:00:42,724 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:00:42,724 - INFO - System: Windows 10 (en)
+2025-05-13 23:00:42,725 - INFO - Session started
+2025-05-13 23:00:42,730 - INFO - PingTask started
+2025-05-13 23:00:42,895 - INFO - Started 16 HandlerTasks
+2025-05-13 23:00:51,814 - INFO - Verified channel: Test (ID: -1002657265233)
+2025-05-13 23:00:52,015 - WARNING - Could not get message history for Test: object async_generator can't be used in 'await' expression
+2025-05-13 23:00:52,189 - WARNING - Could not verify permissions in Test: 'NoneType' object has no attribute 'can_post_messages'
+2025-05-13 23:00:57,992 - INFO - Verified channel: koko (ID: -1002659936082)
+2025-05-13 23:00:58,081 - WARNING - Could not get message history for koko: object async_generator can't be used in 'await' expression
+2025-05-13 23:00:58,258 - INFO - User permissions in koko: ChatMemberStatus.ADMINISTRATOR
+2025-05-13 23:01:07,192 - INFO - Found 10 messages to copy
+2025-05-13 23:01:09,205 - INFO - Connecting...
+2025-05-13 23:01:09,271 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:09,271 - INFO - NetworkTask started
+2025-05-13 23:01:09,693 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:09,693 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:09,693 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:09,693 - INFO - Session started
+2025-05-13 23:01:09,696 - INFO - PingTask started
+2025-05-13 23:01:10,129 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 603, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 23:01:10,130 - INFO - PingTask stopped
+2025-05-13 23:01:10,131 - INFO - Disconnected
+2025-05-13 23:01:10,131 - INFO - NetworkTask stopped
+2025-05-13 23:01:10,131 - INFO - Session stopped
+2025-05-13 23:01:10,148 - INFO - Connecting...
+2025-05-13 23:01:10,214 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:10,214 - INFO - NetworkTask started
+2025-05-13 23:01:10,535 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:10,536 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:10,536 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:10,536 - INFO - Session started
+2025-05-13 23:01:10,538 - INFO - PingTask started
+2025-05-13 23:01:11,614 - INFO - PingTask stopped
+2025-05-13 23:01:11,615 - INFO - Disconnected
+2025-05-13 23:01:11,615 - INFO - NetworkTask stopped
+2025-05-13 23:01:11,615 - INFO - Session stopped
+2025-05-13 23:01:13,955 - INFO - Connecting...
+2025-05-13 23:01:14,019 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:14,019 - INFO - NetworkTask started
+2025-05-13 23:01:14,365 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:14,366 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:14,366 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:14,366 - INFO - Session started
+2025-05-13 23:01:14,370 - INFO - PingTask started
+2025-05-13 23:01:14,751 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 603, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 23:01:14,752 - INFO - PingTask stopped
+2025-05-13 23:01:14,752 - INFO - Disconnected
+2025-05-13 23:01:14,752 - INFO - NetworkTask stopped
+2025-05-13 23:01:14,752 - INFO - Session stopped
+2025-05-13 23:01:14,769 - INFO - Connecting...
+2025-05-13 23:01:14,834 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:14,835 - INFO - NetworkTask started
+2025-05-13 23:01:15,155 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:15,156 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:15,156 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:15,156 - INFO - Session started
+2025-05-13 23:01:15,157 - INFO - PingTask started
+2025-05-13 23:01:16,248 - INFO - PingTask stopped
+2025-05-13 23:01:16,249 - INFO - Disconnected
+2025-05-13 23:01:16,249 - INFO - NetworkTask stopped
+2025-05-13 23:01:16,249 - INFO - Session stopped
+2025-05-13 23:01:18,624 - INFO - Connecting...
+2025-05-13 23:01:18,689 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:18,690 - INFO - NetworkTask started
+2025-05-13 23:01:19,008 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:19,009 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:19,009 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:19,009 - INFO - Session started
+2025-05-13 23:01:19,012 - INFO - PingTask started
+2025-05-13 23:01:19,386 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 603, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 23:01:19,387 - INFO - PingTask stopped
+2025-05-13 23:01:19,387 - INFO - Disconnected
+2025-05-13 23:01:19,388 - INFO - NetworkTask stopped
+2025-05-13 23:01:19,388 - INFO - Session stopped
+2025-05-13 23:01:19,405 - INFO - Connecting...
+2025-05-13 23:01:19,474 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:19,475 - INFO - NetworkTask started
+2025-05-13 23:01:19,825 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:19,826 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:19,826 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:19,826 - INFO - Session started
+2025-05-13 23:01:19,827 - INFO - PingTask started
+2025-05-13 23:01:20,898 - INFO - PingTask stopped
+2025-05-13 23:01:20,898 - INFO - Disconnected
+2025-05-13 23:01:20,899 - INFO - NetworkTask stopped
+2025-05-13 23:01:20,899 - INFO - Session stopped
+2025-05-13 23:01:23,181 - INFO - Connecting...
+2025-05-13 23:01:23,245 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:23,246 - INFO - NetworkTask started
+2025-05-13 23:01:23,606 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:23,606 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:23,607 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:23,607 - INFO - Session started
+2025-05-13 23:01:23,610 - INFO - PingTask started
+2025-05-13 23:01:24,011 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 603, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 23:01:24,012 - INFO - PingTask stopped
+2025-05-13 23:01:24,012 - INFO - Disconnected
+2025-05-13 23:01:24,012 - INFO - NetworkTask stopped
+2025-05-13 23:01:24,012 - INFO - Session stopped
+2025-05-13 23:01:24,029 - INFO - Connecting...
+2025-05-13 23:01:24,094 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:24,094 - INFO - NetworkTask started
+2025-05-13 23:01:24,419 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:24,419 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:24,419 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:24,419 - INFO - Session started
+2025-05-13 23:01:24,420 - INFO - PingTask started
+2025-05-13 23:01:25,427 - INFO - PingTask stopped
+2025-05-13 23:01:25,429 - INFO - Disconnected
+2025-05-13 23:01:25,430 - INFO - NetworkTask stopped
+2025-05-13 23:01:25,430 - INFO - Session stopped
+2025-05-13 23:01:27,714 - INFO - Connecting...
+2025-05-13 23:01:27,780 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:27,781 - INFO - NetworkTask started
+2025-05-13 23:01:28,105 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:28,107 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:28,108 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:28,108 - INFO - Session started
+2025-05-13 23:01:28,123 - INFO - PingTask started
+2025-05-13 23:01:28,504 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 603, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 23:01:28,505 - INFO - PingTask stopped
+2025-05-13 23:01:28,505 - INFO - Disconnected
+2025-05-13 23:01:28,505 - INFO - NetworkTask stopped
+2025-05-13 23:01:28,506 - INFO - Session stopped
+2025-05-13 23:01:28,522 - INFO - Connecting...
+2025-05-13 23:01:28,589 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:28,589 - INFO - NetworkTask started
+2025-05-13 23:01:28,917 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:28,918 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:28,918 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:28,918 - INFO - Session started
+2025-05-13 23:01:28,919 - INFO - PingTask started
+2025-05-13 23:01:30,034 - INFO - PingTask stopped
+2025-05-13 23:01:30,035 - INFO - Disconnected
+2025-05-13 23:01:30,035 - INFO - NetworkTask stopped
+2025-05-13 23:01:30,035 - INFO - Session stopped
+2025-05-13 23:01:32,360 - INFO - Connecting...
+2025-05-13 23:01:32,426 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:32,427 - INFO - NetworkTask started
+2025-05-13 23:01:32,774 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:32,774 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:32,775 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:32,775 - INFO - Session started
+2025-05-13 23:01:32,779 - INFO - PingTask started
+2025-05-13 23:01:32,997 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 603, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 23:01:32,998 - INFO - PingTask stopped
+2025-05-13 23:01:32,998 - INFO - Disconnected
+2025-05-13 23:01:32,999 - INFO - NetworkTask stopped
+2025-05-13 23:01:32,999 - INFO - Session stopped
+2025-05-13 23:01:33,015 - INFO - Connecting...
+2025-05-13 23:01:33,082 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:33,083 - INFO - NetworkTask started
+2025-05-13 23:01:33,472 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:33,472 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:33,472 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:33,473 - INFO - Session started
+2025-05-13 23:01:33,473 - INFO - PingTask started
+2025-05-13 23:01:33,751 - INFO - PingTask stopped
+2025-05-13 23:01:33,752 - INFO - Disconnected
+2025-05-13 23:01:33,753 - INFO - NetworkTask stopped
+2025-05-13 23:01:33,754 - INFO - Session stopped
+2025-05-13 23:01:36,078 - INFO - Connecting...
+2025-05-13 23:01:36,143 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:36,144 - INFO - NetworkTask started
+2025-05-13 23:01:36,499 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:36,499 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:36,499 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:36,500 - INFO - Session started
+2025-05-13 23:01:36,503 - INFO - PingTask started
+2025-05-13 23:01:36,893 - ERROR - division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 603, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2025-05-13 23:01:36,894 - INFO - PingTask stopped
+2025-05-13 23:01:36,894 - INFO - Disconnected
+2025-05-13 23:01:36,894 - INFO - NetworkTask stopped
+2025-05-13 23:01:36,896 - INFO - Session stopped
+2025-05-13 23:01:36,920 - INFO - Connecting...
+2025-05-13 23:01:36,985 - INFO - Connected! Production DC4 (media) - IPv4
+2025-05-13 23:01:36,985 - INFO - NetworkTask started
+2025-05-13 23:01:37,381 - INFO - Session initialized: Layer 158
+2025-05-13 23:01:37,382 - INFO - Device: CPython 3.11.9 - Pyrogram 2.0.106
+2025-05-13 23:01:37,383 - INFO - System: Windows 10 (en)
+2025-05-13 23:01:37,383 - INFO - Session started
+2025-05-13 23:01:37,385 - INFO - PingTask started
+2025-05-13 23:01:38,505 - INFO - PingTask stopped
+2025-05-13 23:01:38,506 - INFO - Disconnected
+2025-05-13 23:01:38,507 - INFO - NetworkTask stopped
+2025-05-13 23:01:38,507 - INFO - Session stopped
+2025-05-13 23:01:43,593 - INFO - Stopped 16 HandlerTasks
+2025-05-13 23:01:43,593 - INFO - PingTask stopped
+2025-05-13 23:01:43,593 - INFO - Disconnected
+2025-05-13 23:01:43,593 - INFO - NetworkTask stopped
+2025-05-13 23:01:43,593 - INFO - Session stopped
+2025-05-13 23:01:43,779 - INFO - Stopped 16 HandlerTasks
+2025-05-13 23:01:43,781 - INFO - PingTask stopped
+2025-05-13 23:01:43,783 - INFO - Disconnected
+2025-05-13 23:01:43,784 - INFO - NetworkTask stopped
+2025-05-13 23:01:43,785 - INFO - Session stopped
+2025-05-13 23:01:43,786 - INFO - Application stopped successfully
+Starting Telegram Message Copier
+Logged in with existing session as: MOHAMED (@None)
+Verified channel: Test (ID: -1002657265233)
+Could not get message history for Test: object async_generator can't be used in 'await' expression
+Could not verify permissions in Test: 'NoneType' object has no attribute 'can_post_messages'
+Verified channel: koko (ID: -1002659936082)
+Could not get message history for koko: object async_generator can't be used in 'await' expression
+User permissions in koko: ChatMemberStatus.ADMINISTRATOR
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 597, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 597, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 597, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 597, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 597, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 597, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 597, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+Starting Telegram Message Copier
+Logged in with existing session as: MOHAMED (@None)
+Verified channel: Dr hazem el gamal (ID: -1002671147953)
+Could not get message history for Dr hazem el gamal: object async_generator can't be used in 'await' expression
+User permissions in Dr hazem el gamal: ChatMemberStatus.ADMINISTRATOR
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 597, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 597, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 597, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 597, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 597, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 597, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+Program terminated by user
+Starting Telegram Message Copier
+Logged in with existing session as: MOHAMED (@None)
+Verified channel: Dr hazem el gamal (ID: -1002671147953)
+Could not get message history for Dr hazem el gamal: object async_generator can't be used in 'await' expression
+User permissions in Dr hazem el gamal: ChatMemberStatus.ADMINISTRATOR
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 642, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+Program terminated by user
+Starting Telegram Message Copier
+Logged in with existing session as: MOHAMED (@None)
+Verified channel: Dr hazem el gamal (ID: -1002671147953)
+Could not get message history for Dr hazem el gamal: object async_generator can't be used in 'await' expression
+User permissions in Dr hazem el gamal: ChatMemberStatus.ADMINISTRATOR
+Verified channel: Dr hazem el gamal (ID: -1002671147953)
+Could not get message history for Dr hazem el gamal: object async_generator can't be used in 'await' expression
+User permissions in Dr hazem el gamal: ChatMemberStatus.ADMINISTRATOR
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 642, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+Program terminated by user
+Starting Telegram Message Copier
+Logged in with existing session as: MOHAMED (@None)
+Verified channel: Dr hazem el gamal (ID: -1002671147953)
+Could not get message history for Dr hazem el gamal: object async_generator can't be used in 'await' expression
+User permissions in Dr hazem el gamal: ChatMemberStatus.ADMINISTRATOR
+division by zero
+Traceback (most recent call last):
+  File "C:\Users\moham\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pyrogram\client.py", line 920, in get_file
+    await func()
+  File "e:\ai forward\main.py", line 649, in download_progress
+    percentage = current * 100 / total
+                 ~~~~~~~~~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+Program terminated by user
+Starting Telegram Message Copier
+Logged in with existing session as: MOHAMED (@None)
+Verified channel: Dr hazem el gamal (ID: -1002671147953)
+Could not get message history for Dr hazem el gamal: object async_generator can't be used in 'await' expression
+User permissions in Dr hazem el gamal: ChatMemberStatus.ADMINISTRATOR
+Program terminated by user
+Starting Telegram Message Copier
+Logged in with existing session as: MOHAMED (@None)
+Verified channel: Dr hazem el gamal (ID: -1002671147953)
+Could not get message history for Dr hazem el gamal: object async_generator can't be used in 'await' expression
+User permissions in Dr hazem el gamal: ChatMemberStatus.ADMINISTRATOR
+Program terminated by user
+Starting Telegram Message Copier
+Logged in with existing session as: MOHAMED (@None)
+Verified channel: Dr hazem el gamal (ID: -1002671147953)
+Could not get message history for Dr hazem el gamal: object async_generator can't be used in 'await' expression
+User permissions in Dr hazem el gamal: ChatMemberStatus.ADMINISTRATOR
+Program terminated by user
+Starting Telegram Message Copier
+Error using existing session: Telegram says: [406 AUTH_KEY_DUPLICATED] - The same authorization key (session file) was used in more than one place simultaneously. You must delete your session file and log in again with your phone number or bot token (caused by "InvokeWithLayer")
+Error creating new session: Telegram says: [406 AUTH_KEY_DUPLICATED] - The same authorization key (session file) was used in more than one place simultaneously. You must delete your session file and log in again with your phone number or bot token (caused by "InvokeWithLayer")
+Failed to start the application
+Starting Telegram Message Copier
+Starting Telegram Message Copier
+Error creating new session: Telegram says: [406 AUTH_KEY_DUPLICATED] - The same authorization key (session file) was used in more than one place simultaneously. You must delete your session file and log in again with your phone number or bot token (caused by "InvokeWithLayer")
+Failed to start the application
+Starting Telegram Message Copier
+Starting Telegram Message Copier
+Session files deleted successfully
+Error using provided session: Telegram says: [406 AUTH_KEY_DUPLICATED] - The same authorization key (session file) was used in more than one place simultaneously. You must delete your session file and log in again with your phone number or bot token (caused by "InvokeWithLayer")
+Session files deleted successfully
+Session saved successfully
+Created new session for: MOHAMED (@None)
+Verified channel: Dr hazem el gamal (ID: -1002671147953)
+Could not get message history for Dr hazem el gamal: object async_generator can't be used in 'await' expression
+User permissions in Dr hazem el gamal: ChatMemberStatus.ADMINISTRATOR
+Program terminated by user
